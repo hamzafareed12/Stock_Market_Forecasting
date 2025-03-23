@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+iframe {
+    border: none;
+    border-radius: 10px;
+}
