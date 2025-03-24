@@ -19,9 +19,7 @@ A web application for predicting stock prices using machine learning models. Bui
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Connect with Me](#connect-with-me)
+- [Contact](#contact)
 
 ---
 
@@ -100,6 +98,7 @@ This project is a **Stock Market Forecasting Web Application** that predicts fut
 
 ### 📌 Error Graph
 ![Prediction Results](https://github.com/hamzafareed12/Stock_Market_Forecasting/blob/master/error_graph.png)
+
 ## 🎯 Future Enhancements
 - Add more advanced deep learning models (e.g., LSTM, GRU)
 - Improve UI with interactive charts (Plotly, D3.js)
