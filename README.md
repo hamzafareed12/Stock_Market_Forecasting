@@ -1,8 +1,8 @@
 # Stock Market Forecasting Web Application
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Prophet%2C%20SARIMAX%2C%20Random%20Forest%2C%20LSTM-orange)
+![Banner](https://github.com/hamzafareed12/Stock_Market_Forecasting/blob/master/stock.jpg)
 
 
 A web application for predicting stock prices using machine learning models. Built with Python, Flask, and Plotly for interactive visualizations.
